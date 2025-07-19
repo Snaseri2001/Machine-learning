@@ -1,1 +1,1 @@
-# ML-Course-2025-Summer
+# Machine Learning
